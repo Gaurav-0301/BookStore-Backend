@@ -1,3 +1,4 @@
+const { getFirestore } = require("firebase/firestore/lite");
 const { Timestamp } = require('firebase/firestore/lite');
 const mongoose=require('mongoose');
 
